@@ -1,0 +1,8 @@
+# Ansible managed: /var/tmp/configuration/playbooks/roles/edxapp/templates/edxapp_env.j2 modified on 2014-07-21 14:39:32 by root on ubuntu
+export LANG="en_US.UTF-8"                 
+export SKIP_WS_MIGRATIONS="1"                 
+export GEM_PATH="/edx/app/edxapp/.gem"                 
+export NO_PREREQ_INSTALL="1"                 
+export PATH="/edx/app/edxapp/venvs/edxapp/bin:/edx/app/edxapp/edx-platform/bin:/edx/app/edxapp/.rbenv/bin:/edx/app/edxapp/.rbenv/shims:/edx/app/edxapp/.gem/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"                 
+export GEM_HOME="/edx/app/edxapp/.gem"                 
+export RBENV_ROOT="/edx/app/edxapp/.rbenv"                 
