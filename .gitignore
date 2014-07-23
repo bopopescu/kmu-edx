@@ -1,0 +1,5 @@
+# .gitignore for kmu-edx
+
+### edx-platform
+edx-platform/
+
