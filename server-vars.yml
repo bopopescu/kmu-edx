@@ -670,6 +670,3 @@ edxapp_cms_variant: cms
 
 # Worker Settings
 worker_django_settings_module: 'aws'
-
-# Security Settings
-SESSION_INACTIVITY_TIMEOUT_IN_SECONDS: 60
